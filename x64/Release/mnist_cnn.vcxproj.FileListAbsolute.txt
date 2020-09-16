@@ -1,0 +1,1 @@
+C:\Dev\Assignments\A5_mlpack\mlpack_cnn_basic_redo\mnist_cnn\mnist_cnn\mnist_cnn\x64\Release\mnist_cnn.vcxproj.CopyComplete
